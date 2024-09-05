@@ -1,0 +1,21 @@
+.sponsor-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+  }
+  
+  .sponsor-card h2 {
+    margin-top: 0;
+  }
+  
+  .sponsor-card p {
+    margin: 8px 0;
+  }
+  
+  .sponsor-card strong {
+    color: #333;
+  }
+  
